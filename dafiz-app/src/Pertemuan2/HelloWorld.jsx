@@ -1,7 +1,7 @@
 export default function HelloWorld(){
       const propsUserCard = {
         nama: "Goku",
-        nim: "999999",
+        nim: "999999000",
         tanggal: "2025-01-01"
     }
 
